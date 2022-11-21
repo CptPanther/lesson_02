@@ -1,0 +1,16 @@
+C:\Users\aser\Desktop\SkillBox VR Разработчик\C#\Lesson_2\Task1\Task_1\obj\Debug\Task_1.csproj.AssemblyReference.cache
+C:\Users\aser\Desktop\SkillBox VR Разработчик\C#\Lesson_2\Task1\Task_1\obj\Debug\Task_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\aser\Desktop\SkillBox VR Разработчик\C#\Lesson_2\Task1\Task_1\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\aser\Desktop\SkillBox VR Разработчик\C#\Lesson_2\Task1\Task_1\bin\Debug\Task_1.exe.config
+C:\Users\aser\Desktop\SkillBox VR Разработчик\C#\Lesson_2\Task1\Task_1\bin\Debug\Task_1.exe
+C:\Users\aser\Desktop\SkillBox VR Разработчик\C#\Lesson_2\Task1\Task_1\bin\Debug\Task_1.pdb
+C:\Users\aser\Desktop\SkillBox VR Разработчик\C#\Lesson_2\Task1\Task_1\obj\Debug\Task_1.exe
+C:\Users\aser\Desktop\SkillBox VR Разработчик\C#\Lesson_2\Task1\Task_1\obj\Debug\Task_1.pdb
+C:\Users\aser\Desktop\SkillBox VR\C#\Lesson_02\Task_1_2\bin\Debug\Task_1.exe.config
+C:\Users\aser\Desktop\SkillBox VR\C#\Lesson_02\Task_1_2\bin\Debug\Task_1.exe
+C:\Users\aser\Desktop\SkillBox VR\C#\Lesson_02\Task_1_2\bin\Debug\Task_1.pdb
+C:\Users\aser\Desktop\SkillBox VR\C#\Lesson_02\Task_1_2\obj\Debug\Task_1.csproj.AssemblyReference.cache
+C:\Users\aser\Desktop\SkillBox VR\C#\Lesson_02\Task_1_2\obj\Debug\Task_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\aser\Desktop\SkillBox VR\C#\Lesson_02\Task_1_2\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\aser\Desktop\SkillBox VR\C#\Lesson_02\Task_1_2\obj\Debug\Task_1.exe
+C:\Users\aser\Desktop\SkillBox VR\C#\Lesson_02\Task_1_2\obj\Debug\Task_1.pdb
